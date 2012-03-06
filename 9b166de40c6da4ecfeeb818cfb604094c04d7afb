@@ -52,6 +52,24 @@
       "revId": "9b166de40c6da4ecfeeb818cfb604094c04d7afb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//71g\u003d",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2873
+      },
+      "writtenOn": "2012-03-06T06:53:40Z",
+      "side": 0,
+      "message": "its my understanding the reason why everyone is doing this is because they realize that its in the cm\u0027s common.mk file, im not sure if it was just recently put in, or someone realizes it doesnt need to be in here because of that..",
+      "parentUuid": "AAAAQX//71o\u003d",
+      "revId": "9b166de40c6da4ecfeeb818cfb604094c04d7afb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
