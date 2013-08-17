@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_703f3026",
+        "filename": "full_toro.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-17T21:07:39Z",
+      "side": 0,
+      "message": "I haven\u0027t seen about VMware in this file.",
+      "revId": "ddd03f583372f161d9f7904337f92a8b68a46535",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}

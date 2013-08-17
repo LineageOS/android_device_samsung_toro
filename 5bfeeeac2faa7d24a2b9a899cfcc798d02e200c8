@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_503c2c2f",
+        "filename": "full_toro.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-17T21:07:39Z",
+      "side": 1,
+      "message": "GNexusParts is gone. Gallery2 replaces Gallery.",
+      "revId": "5bfeeeac2faa7d24a2b9a899cfcc798d02e200c8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_3049a8d1",
+        "filename": "system.prop",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-17T21:07:39Z",
+      "side": 1,
+      "message": "Please test this. I have got only a maguro device.",
+      "revId": "5bfeeeac2faa7d24a2b9a899cfcc798d02e200c8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
