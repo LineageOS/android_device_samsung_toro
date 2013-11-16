@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_1f932bfc",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 882
+      },
+      "writtenOn": "2013-11-16T07:48:32Z",
+      "side": 1,
+      "message": "Tabbed instead of spaced.",
+      "revId": "42b4690ba11af36b4f5bbff7328101891cc4a56d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
