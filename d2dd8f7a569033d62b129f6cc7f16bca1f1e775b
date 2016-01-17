@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_71453e17",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 10245
+      },
+      "writtenOn": "2016-01-17T22:50:33Z",
+      "side": 1,
+      "message": "Please try to keep indentations consistent by replacing these with spaces :)",
+      "range": {
+        "startLine": 67,
+        "startChar": 0,
+        "endLine": 67,
+        "endChar": 1
+      },
+      "revId": "d2dd8f7a569033d62b129f6cc7f16bca1f1e775b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
