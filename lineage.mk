@@ -9,7 +9,7 @@ TARGET_SCREEN_WIDTH := 720
 PRODUCT_COPY_FILES += \
 	device/samsung/toro/prebuilt/etc/apns-conf.xml:system/etc/apns-conf.xml
 
-# Inherit some common CM stuff.
+# Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_mini_phone.mk)
 
 # Inherit device configuration
@@ -20,7 +20,7 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := toro
-PRODUCT_NAME := cm_toro
+PRODUCT_NAME := lineage_toro
 PRODUCT_BRAND := Google
 PRODUCT_MODEL := Galaxy Nexus
 PRODUCT_MANUFACTURER := Samsung
